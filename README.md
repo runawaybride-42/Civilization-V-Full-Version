@@ -256,4 +256,4 @@ This repository serves as the official landing page for Civilization V. The soft
 **Get the most recent version of Civilization V today!**
 
 ---
-**Last updated:** 2026-10-04 02:23:40 UTC
+**Last updated:** 2026-10-04 09:20:28 UTC
